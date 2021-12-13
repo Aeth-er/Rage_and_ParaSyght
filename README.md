@@ -16,7 +16,7 @@ Finally, I am not to be held responsible for the terminating of your account fro
 ## Installation
 
 
-* Go to `download.txt` in this repo and it'll give you the mediafire link, download from there untill I update this.
+* Go to `download` in this repo and it'll give you the mediafire link, download from there untill I update this.
 
 
 
