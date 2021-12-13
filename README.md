@@ -16,6 +16,10 @@ Finally, I am not to be held responsible for the terminating of your account fro
 ## Installation
 
 
+* Go to `download.txt` in this repo and it'll give you the mediafire link, download from there untill I update this.
+
+
+
 * Make sure you have [Python 3.9+](https://www.python.org/downloads/) installed 
 
 
@@ -27,11 +31,10 @@ Finally, I am not to be held responsible for the terminating of your account fro
 <details>
   <summary>ParaSyght Exe</summary>
 
-1. Click on the green "Code" button and then click on "Download ZIP"
-2. Open the zip file and Extract All Files
-3. Click on the directory named ParaSyght and then the folder named ParaSyght Exe
-4. Click on then file named `parasyght.exe`
-5. ParaSyght should boot up.
+1. Open the zip file and Extract All Files
+2. Click on the directory named ParaSyght and then the folder named ParaSyght Exe
+3. Click on then file named `parasyght.exe`
+4. ParaSyght should boot up.
 
 * Feel free to DM me on Discord for help. My Username is Aether#8160 and this is [My Server](https://discord.gg/6qsuxwRq73)
   </details>
@@ -40,11 +43,10 @@ Finally, I am not to be held responsible for the terminating of your account fro
 <details>
   <summary>ParaSyght Python</summary>
 
-1. Click on the green "Code" button and then click on "Download ZIP"
-2. Open the zip file and Extract All Files
-3. Click on the directory named ParaSyght and then the folder named ParaSyght Python
-4. Click on then file named `setup.bat`. This should download all python modules
-5. Click on the file named `parasyght.py`
+1. Open the zip file and Extract All Files
+2. Click on the directory named ParaSyght and then the folder named ParaSyght Python
+3. Click on then file named `setup.bat`. This should download all python modules
+4. Click on the file named `parasyght.py`
 
 * Feel free to DM me on Discord for help. My Username is Aether#8160 and this is [My Server](https://discord.gg/6qsuxwRq73)
 </details> 
@@ -57,11 +59,11 @@ Finally, I am not to be held responsible for the terminating of your account fro
 <details>
   <summary>Rage Exe</summary>
 
-1. Click on the green "Code" button and then click on "Download ZIP"
-2. Open the zip file and Extract All Files
-3. Click on the directory named Rage and then the folder named Rage Exe
-4. Click on then file named `rage.exe`
-5. Rage should boot up.
+
+1. Open the zip file and Extract All Files
+2. Click on the directory named Rage and then the folder named Rage Exe
+3. Click on then file named `rage.exe`
+4. Rage should boot up.
 
 * Feel free to DM me on Discord for help. My Username is Aether#8160 and this is [My Server](https://discord.gg/6qsuxwRq73)
   </details>
@@ -69,10 +71,10 @@ Finally, I am not to be held responsible for the terminating of your account fro
 
 <details>
   <summary>Rage Python</summary>
-1. Click on the green "Code" button and then click on "Download ZIP"
-2. Open the zip file and Extract All Files
-3. Click on the directory named Rage and then the folder named Rage Python
-4. Then follow official automated installation instructions by [††#7777](https://github.com/TT-Tutorials/Rage-Multi-Tool)
+
+1. Open the zip file and Extract All Files
+2. Click on the directory named Rage and then the folder named Rage Python
+3. Then follow official automated installation instructions by [††#7777](https://github.com/TT-Tutorials/Rage-Multi-Tool)
 
 * Feel free to DM me on Discord for help. My Username is Aether#8160 and this is [My Server](https://discord.gg/6qsuxwRq73)
 </details> 
