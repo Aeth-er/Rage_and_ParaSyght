@@ -6,8 +6,6 @@ Before any accusations neither of these programs are originally mine, I simply t
 
 Rage was simply turned into a exe file. It was originally developed by [††#7777](https://github.com/TT-Tutorials/Rage-Multi-Tool). I will provide instructions to setup both exe and the python version.
 
-ParaySght is originally known as XTool developed by [NotTiie](https://github.com/NotTiie/XTool), I took the tool and changed the GUI to be slightly easier to use, this too comes in both exe and python versions, both of which will be provided instructions for.
-
 
 *Note : If using exe versions for either Rage or ParaSyght, many features wont work so I highly suggest that you use python versions*
 
